@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sribatsa.vercel.app/sitemap.xml
