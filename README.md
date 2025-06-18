@@ -300,12 +300,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 Email: your.email@example.com
-- 💬 Issues: [GitHub Issues](https://github.com/your-username/sribatsa_portfolio_templet/issues)
-- 📖 Documentation: [Wiki](https://github.com/your-username/sribatsa_portfolio_templet/wiki)
+- 📧 Email: tsribatsapatro@gmail.com
+- 💬 Issues: [GitHub Issues](https://github.com/TARNALA-SRIBATSA-PATRO/sribatsa_portfolio_templet/issues)
+- 📖 Documentation: [Wiki](https://github.com/TARNALA-SRIBATSA-PATRO/sribatsa_portfolio_templet/wiki)
 
 ---
 
 ⭐ **Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Sribatsa](https://github.com/TARNALA-SRIBATSA-PATRO)
